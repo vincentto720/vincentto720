@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vincent To</h1>
 <h3 align="center">An aspiring Data Scientist from Bakersfield,CA</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincentto720&label=Profile%20views&color=0e75b6&style=flat" alt="vincentto720" /> </p>
+
+- ⚕️I’m currently working at **Adventist Health as a Data Analyst**
+
+- 🌱 I’m currently learning **data science certificates**
+
+- 📫 How to reach me **vincentto720@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
